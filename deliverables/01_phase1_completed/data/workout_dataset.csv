@@ -1,0 +1,112 @@
+name,target_muscles,equipment,difficulty,type,description
+Push-up,chest,bodyweight,beginner,push,Classic chest exercise performed on hands and toes
+Incline Push-up,chest,bodyweight,beginner,push,Easier push-up variation with hands elevated
+Decline Push-up,chest,bodyweight,intermediate,push,Push-up with feet elevated for upper chest
+Diamond Push-up,chest,bodyweight,intermediate,push,Narrow hand placement targets triceps
+Wide Push-up,chest,bodyweight,beginner,push,Wider hand placement for chest emphasis
+Bench Press,chest,barbell,intermediate,push,Flat barbell press for chest development
+Incline Bench Press,chest,barbell,intermediate,push,Barbell press on inclined bench targets upper chest
+Decline Bench Press,chest,barbell,intermediate,push,Barbell press on declined bench targets lower chest
+Dumbbell Bench Press,chest,dumbbells,beginner,push,Flat dumbbell press for chest
+Incline Dumbbell Press,chest,dumbbells,intermediate,push,Inclined dumbbell press for upper chest
+Chest Dip,chest,parallel bars,intermediate,push,Dip variation targeting chest
+Cable Crossover,chest,cable,intermediate,push,Cable fly for chest isolation
+Pec Deck Fly,chest,machine,intermediate,isolation,Machine fly for chest
+Dumbbell Fly,chest,dumbbells,intermediate,isolation,Flat fly movement for chest stretch
+Resistance Band Push-up,chest,resistance band,beginner,push,Push-up with band for added resistance
+Pull-up,back,pull-up bar,intermediate,pull,Vertical pull for back and biceps
+Chin-up,back,pull-up bar,intermediate,pull,Underhand grip targets biceps more
+Lat Pulldown,back,cable machine,beginner,pull,Cable pulldown for lats
+Wide Grip Pulldown,back,cable machine,intermediate,pull,Pulldown with wider grip
+Close Grip Pulldown,back,cable machine,intermediate,pull,Pulldown targeting inner lats
+Seated Cable Row,back,cable machine,beginner,pull,Horizontal pull for middle back
+Bent Over Row,back,barbell,intermediate,pull,Barbell row for back thickness
+Dumbbell Row,back,dumbbells,beginner,pull,Single arm row for back
+T-Bar Row,back,barbell,intermediate,pull,Chest supported row variation
+Face Pull,back,cable machine,beginner,pull,Rear delt and upper back exercise
+Deadlift,back,barbell,advanced,pull,Full posterior chain compound movement
+Romanian Deadlift,hamstrings,barbell,intermediate,pull,Hip hinge for hamstrings and glutes
+Shrugs,trapezius,barbell,beginner,isolation,Barbell shrug for traps
+Upright Row,shoulders,barbell,intermediate,pull,Vertical pull for delts and traps
+Overhead Press,shoulders,barbell,intermediate,push,Standing barbell press for shoulders
+Seated Dumbbell Press,shoulders,dumbbells,intermediate,push,Seated shoulder press
+Arnold Press,shoulders,dumbbells,intermediate,push,Rotating press for deltoids
+Lateral Raise,shoulders,dumbbells,beginner,isolation,Side raise for lateral delts
+Front Raise,shoulders,dumbbells,beginner,isolation,Front raise for anterior delts
+Rear Delt Fly,shoulders,dumbbells,intermediate,isolation,Reverse fly for rear delts
+Cable Lateral Raise,shoulders,cable,intermediate,isolation,Cable side raise
+Shoulder Dip,shoulders,parallel bars,advanced,push,Dip variation for shoulders
+Upright Row,shoulders,barbell,intermediate,pull,Vertical pull for delts
+Barbell Curl,biceps,barbell,beginner,isolation,Classic bicep exercise
+Dumbbell Curl,biceps,dumbbells,beginner,isolation,Basic bicep curl
+Hammer Curl,biceps,dumbbells,beginner,isolation,Neutral grip curl for brachialis
+Preacher Curl,biceps,barbell,intermediate,isolation,Preacher bench curl for bicep peak
+Concentration Curl,biceps,dumbbells,beginner,isolation,Single arm focused bicep curl
+Cable Curl,biceps,cable,beginner,isolation,Cable bicep curl
+Incline Dumbbell Curl,biceps,dumbbells,intermediate,isolation,Curl on incline for stretch
+Spider Curl,biceps,barbell,intermediate,isolation,Face down preacher curl
+Tricep Dip,triceps,parallel bars,intermediate,push,Bodyweight dip for triceps
+Tricep Pushdown,triceps,cable machine,beginner,isolation,Cable pushdown for triceps
+Skull Crusher,triceps,barbell,intermediate,isolation,Lying tricep extension
+Overhead Tricep Extension,triceps,dumbbells,beginner,isolation,Overhead extension for triceps
+Close Grip Bench Press,triceps,barbell,intermediate,push,Narrow bench press for triceps
+Tricep Kickback,triceps,dumbbells,intermediate,isolation,Kickback movement for triceps
+Diamond Push-up,triceps,bodyweight,intermediate,push,Push-up with hands close together
+Rope Pushdown,triceps,cable machine,intermediate,isolation,Rope extension for triceps
+Bodyweight Squat,quadriceps,bodyweight,beginner,legs,Basic squat movement
+Goblet Squat,quadriceps,dumbbells,beginner,legs,Squat with weight held at chest
+Front Squat,quadriceps,barbell,advanced,legs,Barbell front squat
+Back Squat,quadriceps,barbell,advanced,legs,Barbell back squat
+Leg Press,quadriceps,machine,intermediate,legs,Machine squat variation
+Hack Squat,quadriceps,machine,intermediate,legs,Machine hack squat
+Leg Extension,quadriceps,machine,beginner,isolation,Machine extension for quads
+Walking Lunge,quadriceps,bodyweight,beginner,legs,Lunge walking movement
+Bulgarian Split Squat,quadriceps,dumbbells,intermediate,legs,Single leg squat on bench
+Step-up,quadriceps,bodyweight,beginner,legs,Step up onto elevated surface
+Sissy Squat,quadriceps,bodyweight,advanced,legs,Lean back squat for quads
+Lying Leg Curl,hamstrings,machine,beginner,isolation,Prone leg curl for hamstrings
+Seated Leg Curl,hamstrings,machine,beginner,isolation,Seated leg curl variation
+Good Morning,hamstrings,barbell,advanced,pull,Hip hinge for hamstrings
+Stiff Leg Deadlift,hamstrings,barbell,intermediate,pull,Straight leg deadlift variation
+Glute Bridge,glutes,bodyweight,beginner,compound,Lying hip thrust for glutes
+Hip Thrust,glutes,barbell,intermediate,legs,Hip thrust with weight for glutes
+Glute Kickback,glutes,cable machine,beginner,isolation,Cable kickback for glutes
+Donkey Kicks,glutes,bodyweight,beginner,isolation,Floor kickback for glutes
+Clamshell,glutes,resistance band,beginner,isolation,Hip rotation exercise for glutes
+Banded Side Step,glutes,resistance band,beginner,isolation,Lateral band walk
+Single Leg Deadlift,glutes,dumbbells,intermediate,compound,Balance and hip hinge
+Cable Pull Through,glutes,cable machine,beginner,compound,Pulling motion for glutes
+Calf Raise,calves,bodyweight,beginner,isolation,Standing calf raise
+Seated Calf Raise,calves,machine,beginner,isolation,Seated calf raise variation
+Donkey Calf Raise,calves,machine,intermediate,isolation,Hip bent calf raise
+Standing Calf Raise,calves,machine,beginner,isolation,Standard calf raise machine
+Crunches,abs,bodyweight,beginner,isolation,Classic ab crunch
+Reverse Crunch,abs,bodyweight,beginner,isolation,Reverse ab movement
+Leg Raise,abs,bodyweight,beginner,isolation,Hanging or lying leg raise
+Plank,abs,bodyweight,beginner,core,Isometric core hold
+Side Plank,abs,bodyweight,beginner,core,Lateral isometric hold
+Mountain Climbers,abs,bodyweight,intermediate,cardio,Dynamic core and cardio
+Russian Twist,abs,bodyweight,beginner,isolation,Seated rotation exercise
+Bicycle Crunch,abs,bodyweight,beginner,isolation,Crossing elbow to knee crunch
+Dead Bug,abs,bodyweight,beginner,core,Alternating arm and leg movement
+Ab Rollout,abs,bodyweight,intermediate,core,Ab wheel rollout
+Cable Crunch,abs,cable machine,intermediate,isolation,Kneeling cable crunch
+V-ups,abs,bodyweight,intermediate,isolation,Full body crunch movement
+Hanging Leg Raise,abs,pull-up bar,intermediate,isolation,Hanging ab exercise
+Burpees,cardiovascular,bodyweight,advanced,cardio,Full body explosive cardio
+Jumping Jacks,cardiovascular,bodyweight,beginner,cardio,Classic cardio movement
+High Knees,cardiovascular,bodyweight,beginner,cardio,Jogging in place
+Jump Squat,cardiovascular,bodyweight,intermediate,cardio,Explosive squat jump
+Box Jump,cardiovascular,bodyweight,intermediate,cardio,Jumping onto elevated platform
+Mountain Climbers,cardiovascular,bodyweight,intermediate,cardio,Dynamic cardio movement
+Running,cardiovascular,bodyweight,beginner,cardio,Steady state cardio
+Cycling,cardiovascular,bicycle,beginner,cardio,Stationary bike cardio
+Rowing Machine,cardiovascular,rowing machine,intermediate,cardio,Full body cardio
+Skipping,cardiovascular,jump rope,beginner,cardio,Jumping rope cardio
+Battle Ropes,cardiovascular,dumbbells,intermediate,cardio,Wave ropes for cardio
+Kettlebell Swing,cardiovascular,kettlebell,intermediate,pull,Explosive hip hinge swing
+Dumbbell Snatch,cardiovascular,dumbbells,advanced,pull,Explosive overhead movement
+Plank Jack,cardiovascular,bodyweight,beginner,cardio,Jumping jack variation in plank
+Tuck Jump,cardiovascular,bodyweight,advanced,cardio,Explosive jumping tuck
+Sprint,cardiovascular,bodyweight,intermediate,cardio,High intensity running
+Elliptical,cardiovascular,machine,beginner,cardio,Low impact cardio machine
