@@ -25,7 +25,6 @@ wheels/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-*.ipynb
 
 # IDE
 .vscode/
@@ -37,6 +36,6 @@ wheels/
 .DS_Store
 Thumbs.db
 
-# Data
+# Data files (except main dataset)
 *.csv
-!deliverables/01_phase1_completed/data/*.csv
+!data/workout_dataset.csv
