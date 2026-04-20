@@ -24,6 +24,11 @@ workout-recommender/
 │   ├── 03-deliverable.md         # 🚧 Phase 2 Part 2 - To Do
 │   └── 04-deliverable.md         # 🚧 Phase 2 Part 3 - To Do
 │
+├── notebooks/                    # Jupyter notebooks (code here)
+│   ├── deliverable_02/
+│   ├── deliverable_03/
+│   └── deliverable_04/
+│
 ├── reports/                      # Output for visualizations
 │
 ├── README.md
@@ -47,7 +52,7 @@ workout-recommender/
 
 1. Read the deliverable markdown file for your current task
 2. Follow the steps outlined in the file
-3. Create notebooks in: `notebooks/` (create this folder)
+3. Complete the notebooks in: `notebooks/`
 4. Save outputs to appropriate folders
 
 ---
