@@ -71,10 +71,4 @@ workout-recommender/
 
 ---
 
-## License
-
-MIT License
-
----
-
 *Machine Intelligence Course Project - Nile University*
